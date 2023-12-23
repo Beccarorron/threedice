@@ -1,0 +1,17 @@
+{
+	"name": "threedice",
+	"version": "1.0.0",
+	"type": "module",
+	"dependencies": {
+		"cannon-es": "^0.20.0",
+		"selenium-webdriver": "^4.16.0",
+		"three": "^0.160.0"
+	},
+	"scripts": {
+		"dev": "vite"
+	},
+	"devDependencies": {
+		"esbuild": "0.19.10",
+		"vite": "^5.0.10"
+	}
+}
